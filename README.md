@@ -8,11 +8,6 @@
 
 
 
-<a href="https://github.com/vivekvkashyap/github-readme-stats">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karish-grover&layout=compact&langs_count=8&theme=radical" />
-</a>
-
-
 <a align="left">
  
 ### Some Languages and Tools
