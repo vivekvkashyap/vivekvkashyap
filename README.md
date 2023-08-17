@@ -2,7 +2,7 @@
 <p align="center">
  
 💡 &nbsp; I am a Machine Learning Intern at [IIT Bombay](https://www.iitb.ac.in/) in the Department of [Computer Science](https://www.cse.iitb.ac.in/). \
-📈 &nbsp; I'm currently working in the field of NLP, particularly its application in the health domain across India.\
+📈 &nbsp; I'm currently working in the field of NLP, particularly its application in the health domain across India. Prior to this, I gained experience at the [Indian Institute of Science](https://iisc.ac.in/), Bangalore. \
 📄 &nbsp; You can check out my [Portfolio](https://vivekvkashyap.github.io/) to know more about my experience and achievements.
 
 
